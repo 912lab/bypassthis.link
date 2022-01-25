@@ -26,7 +26,7 @@ input[type=submit] {
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1em;
   text-align: center;
   padding: 70px 0 0 0;
   color: #EF8354;
@@ -40,7 +40,7 @@ span {
 }
 
 #container {
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   padding: 50px 0 150px 0;
   display: flex;
